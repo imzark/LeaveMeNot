@@ -1,0 +1,18 @@
+PODS:
+  - AMap2DMap (4.5.0):
+    - AMapFoundation (~> 1.3)
+  - AMapFoundation (1.3.2)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - AMap2DMap
+  - Masonry
+
+SPEC CHECKSUMS:
+  AMap2DMap: 6033c7c75c0157e8701bed57fa4f05e5e45c9f91
+  AMapFoundation: 843dc27b2c02bc0bc2ef3346bb3dd0456cf64dbb
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 7dd67070a88747faaec87a468efb7c654f944ff5
+
+COCOAPODS: 1.2.0.beta.1
